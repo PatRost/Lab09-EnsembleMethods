@@ -5,7 +5,7 @@
 
 ---
 
-## Member 1: [Your Name]
+## Member 1: Patrick Rostand Gandjouon Tchassem
 
 In this lab, I learned how ensemble methods work and why using multiple models can sometimes give better results than using just one. Before this lab, I thought that using more models would always improve accuracy, but I realized that is not always the case.
 
