@@ -17,9 +17,13 @@ Overall, this lab helped me better understand the difference between a single De
 
 ---
 
-## Member 2: [Member Name]
+## Member 2: Saimi Manasiya
 
-### Personal Reflection
+Through this lab, I gained a better understanding of ensemble methods and how they are used in machine learning to improve prediction results. I learned that instead of depending on a single model, ensemble methods combine multiple models to make a final prediction. This approach is based on the idea of the “wisdom of the crowd,” where different models work together to produce more reliable results. I also learned about two important techniques, Bagging and Boosting, and how they help improve model performance.
+
+During this lab, I worked with the Iris dataset and trained two different machine learning models: a single Decision Tree and a Random Forest. I found it interesting that both models achieved 100% accuracy on the test data. Initially, I expected the Random Forest to perform better because it combines multiple Decision Trees. However, both models produced the same accuracy. This helped me understand that using a more complex model does not always guarantee better results, especially when working with a simple dataset.
+
+Another important part of this lab was learning about feature importance. I used the Random Forest model to identify which features were most important for classifying Iris flowers. From the results, I found that petal width and petal length were the two most important features. This helped me understand how machine learning models identify patterns in data and use important features to make predictions. Overall, this lab improved my knowledge of machine learning, model comparison, prediction accuracy, and data visualization. It also helped me understand how combining multiple models can make predictions more reliable.
 
 
 
