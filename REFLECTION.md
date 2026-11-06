@@ -29,9 +29,30 @@ Another important part of this lab was learning about feature importance. I used
 
 ---
 
-## Member 3: [Member Name]
+## Member 3: Kenneth Kouokam
 
-### Personal Reflection
+The part of this lab that interests me most is that adding 99 more trees did not change the reported
+accuracy. At first glance, that result makes a forest of 100 trees seem unnecessary. Counting the test
+flowers gives me a better explanation: the single tree already got all 45 right. Even if the forest
+learned different rules, there was no mistake left for it to correct on this test set.
+
+Thinking about one flower makes the percentage easier for me to interpret. One wrong prediction
+would move the score from 100% to about 97.8%. Those numbers look different in a table, but the
+difference is a single flower. Now, when I see a percentage, I want to know how many examples it
+represents. I would be more interested in which flower was misclassified and whether its
+measurements resembled another species than in the percentage alone.
+
+The tie also helps me connect ensemble methods to the bias-variance lab. A single tree can learn
+different rules when its training examples change. A forest combines trees trained with some
+randomness, so one unusual tree has less influence on the final prediction. That possible benefit is
+about consistency. Two models can agree on every flower in one test set without being equally
+sensitive to a change in the training data.
+
+If I were extending this comparison, I would use the same cross-validation folds for both models. That
+way, whenever I compared two scores, both models would have faced the same flowers. I would look
+at their average accuracy and whether one model had a particularly weak fold. The question I would
+take into that experiment is whether the forest stays reliable on the cases that challenge a single tree.
+The current result gives me a reason to ask that question, but it does not answer it.
 
 
 ---
