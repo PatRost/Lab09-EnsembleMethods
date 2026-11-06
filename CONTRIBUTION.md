@@ -28,9 +28,19 @@ I also completed the feature importance activity by extracting the importance va
 
 ---
 
-## Member 3: [Member Name]
+## Member 3: Kenneth Kouokam
 
-### My Contribution
+My part of Lab 09 is explaining the tie between the Decision Tree and the Random Forest. Saimi
+reported 100% accuracy for both models. The notebook sets aside 30% of the 150 Iris flowers for
+testing, which gives 45 test flowers and leaves 105 for training. On that split, the reported scores
+mean that each model correctly classified all 45 test flowers. Neither model had an advantage in the
+number of correct predictions.
+
+My interpretation also puts that result in perspective. If either model had missed just one flower, its
+accuracy would have been 44 out of 45, or about 97.8%. With so few test examples, I would describe
+the result as a tie on this particular split. To find out whether the forest gives more consistent
+predictions, I would compare both models across the same additional splits and look at how much
+their scores change.
 
 
 ---
