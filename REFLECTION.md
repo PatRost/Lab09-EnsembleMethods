@@ -57,9 +57,26 @@ The current result gives me a reason to ask that question, but it does not answe
 
 ---
 
-## Member 4: [Member Name]
+## Member 4: Anavictoria Cavazos
 
-### Personal Reflection
+ After completing lab 09 this week, I learned more about how a random forest works and how it compares to using a decision tree. In this 
+ particular dataset of iris, the random forest and the decision tree both appeared to give the same accuracy of 100%. This didn't give a 
+ chance to explore how a decision tree compares to a forest tree entirely, but I understand that, in most cases, a forest tree is 
+ expected to perform better than a decision tree. However, now I see how that strongly depends on the dataset provided. In this case, the 
+ iris dataset is quite simple, but in other cases, with more complex data, it is possible that a difference would be clearly shown 
+ between these two models. 
+
+My prior idea when working on this lab was the idea that a forest tree is a better use than a decision tree. A forest tree has multiple 
+trees, each having something different from the data; it allows better and more similar predictions to the other trees, and it is like a 
+team effort. Since a decision tree is just one that likely will stick to what the specific data is shown or imputed, it can create a 
+problem when new data is put in that it has never seen, because it does not know how to properly process it and  perform as well as a 
+forest tree would or is expected to. 
+
+Now, reflecting on this prior idea, I see that it does not always apply and how this sometimes happens when working with models and data. 
+Sometimes what you expect to work better with your data ends up not being the best or ends up being just as good as another model, 
+because it is about knowing and testing, working with your data to its accommodations, and being flexible about what works best with the 
+data. 
+
 
 
 ---
