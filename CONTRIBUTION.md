@@ -45,9 +45,14 @@ their scores change.
 
 ---
 
-## Member 4: [Member Name]
+## Member 4: Anavictoria Cavazos
 
-### My Contribution
+My contribution to this assignment in part has to do with explaining how a random forest makes a prediction. The way that it functions in 
+Module 9 with the iris dataset is that when a random forest is in use, it goes with the majority vote. For instance, with the 100 
+different trees, if a random new iris was input and 70 out of the 100 trees classify it as a specific species and then the other 30 as a 
+different species. The result or final prediction would be what the 70 predict it to be because it is the majority prediction, so the 30 
+are not taken into consideration when the prediction happens; that error is sort of looked over or passed by. 
+
 
 
 ---
