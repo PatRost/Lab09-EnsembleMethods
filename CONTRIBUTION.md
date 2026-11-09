@@ -59,7 +59,7 @@ are not taken into consideration when the prediction happens; that error is sort
 
 ## Member 5: Hashim Sayed Hoosini
 
-Because of my busy work schedule, I wasn't able to join my team members for synchronous group sessions. However, I kept up active and consistent communication with everyone through our GroupMe chat to stay on top of the team's directions, share progress updates, and make sure we were all aligned on our final submission requirements. Working this way allowed me to contribute meaningfully on my own timeline while ensuring my work stayed perfectly in sync with the group's objective.
+Because of my work schedule, I wasn't able to join my team members for synchronous group sessions. However, I kept up active and consistent communication with everyone through our GroupMe chat to stay on top of the team's directions, share progress updates, and make sure we were all aligned on our final submission requirements. Working this way allowed me to contribute meaningfully on my own timeline while ensuring my work stayed perfectly in sync with the group's objective.
 
 
 To make sure I fully understood the material, I worked through and executed this entire Colab notebook independently. During this process, I hit some resource limit issues where Colab wouldn't let me connect to a backend. I spent time troubleshooting the runtime environment on my own, clearing up the connection, and eventually got every single cell to run perfectly. Doing this hands-on debugging, checking each block of code, and analyzing how the ensemble methods work on my own time really helped me master the material and successfully contribute my individual workflow to the group.
