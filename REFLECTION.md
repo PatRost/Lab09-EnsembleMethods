@@ -94,6 +94,3 @@ I also had a bit of a setback while trying to run the lab because Google Colab k
 
 Ultimately, this experience taught me to value simplicity and systematic troubleshooting. I realize now that we shouldn't just grab the most complex ensemble method off the shelf without testing simpler baselines first. Going forward, I'll definitely focus on checking my computational limits early, understanding feature importances, and comparing models based on how stable they will remain on noisy, unseen data rather than just chasing a flat 100% accuracy score.
 
-
-
----
