@@ -81,9 +81,18 @@ data.
 
 ---
 
-## Member 5: [Member Name]
+## Member 5: Hashim Sayed Hoosini
 
-### Personal Reflection
+This lab really changed how I think about model complexity. I used to assume that building a massive, complicated model like a Random Forest with 100 trees would automatically blow a single decision tree out of the water. Seeing them both get 100% accuracy on the Iris test set was a real eye-opener. It taught me that when a dataset is clean and simple, throwing more complex algorithms at it doesn't give you a better score—it just adds unnecessary bulk.
+
+
+What really clicked for me during this run was the concept of stability. Even though both models got a perfect score here, a single decision tree is incredibly sensitive and can easily overfit if the training data shifts even a little bit. The Random Forest averages out predictions from a bunch of randomized trees, meaning it acts as a shock absorber against that variance. So even if the final percentages look identical on paper, the forest model is much more reliable and robust for real-world application.
+
+
+I also had a bit of a setback while trying to run the lab because Google Colab kept giving me a 'Failed to assign a backend' error. It was frustrating at first, but it actually forced me to slow down, look closely at how the runtime allocates resources, and troubleshoot the environment. Once I got a clean CPU connection back up, running the models step-by-step and seeing the feature importances confirm that petal width and petal length are the key diagnostic traits for these flowers was highly satisfying. It showed me that machine learning isn't just a black box; its logical outputs match real-world biology.
+
+
+Ultimately, this experience taught me to value simplicity and systematic troubleshooting. I realize now that we shouldn't just grab the most complex ensemble method off the shelf without testing simpler baselines first. Going forward, I'll definitely focus on checking my computational limits early, understanding feature importances, and comparing models based on how stable they will remain on noisy, unseen data rather than just chasing a flat 100% accuracy score.
 
 
 
